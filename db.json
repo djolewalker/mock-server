@@ -1,0 +1,29 @@
+{
+  "locations": [
+    {
+      "invNumber": 1234,
+      "locationTag": "RX.1",
+      "locationName": "RX location one"
+    },
+    {
+      "invNumber": 1424,
+      "locationTag": "RX.2",
+      "locationName": "RX location two"
+    },
+    {
+      "invNumber": 2342,
+      "locationTag": "RX.3",
+      "locationName": "RX location three"
+    },
+    {
+      "invNumber": 3321,
+      "locationTag": "RX.4",
+      "locationName": "RX location four"
+    },
+    {
+      "invNumber": 4234,
+      "locationTag": "RX.5",
+      "locationName": "RX location five"
+    }
+  ]
+}
