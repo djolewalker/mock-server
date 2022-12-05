@@ -1,29 +1,24 @@
 {
-  "locations": [
-    {
-      "invNumber": 1234,
-      "locationTag": "RX.1",
-      "locationName": "RX location one"
+  "locations": {
+    "1234": {
+      "label": "RX.1",
+      "name": "RX location one"
     },
-    {
-      "invNumber": 1424,
-      "locationTag": "RX.2",
-      "locationName": "RX location two"
+    "1424": {
+      "label": "RX.2",
+      "name": "RX location two"
     },
-    {
-      "invNumber": 2342,
-      "locationTag": "RX.3",
-      "locationName": "RX location three"
+    "2342": {
+      "label": "RX.3",
+      "name": "RX location three"
     },
-    {
-      "invNumber": 3321,
-      "locationTag": "RX.4",
-      "locationName": "RX location four"
+    "3321": {
+      "label": "RX.4",
+      "name": "RX location four"
     },
-    {
-      "invNumber": 4234,
-      "locationTag": "RX.5",
-      "locationName": "RX location five"
+    "4234": {
+      "label": "RX.5",
+      "name": "RX location five"
     }
-  ]
+  }
 }
